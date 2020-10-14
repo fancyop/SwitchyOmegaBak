@@ -1,0 +1,2 @@
+# SwitchyOmegaBak
+适用于V2Ray的SwitchOmage配置备份
